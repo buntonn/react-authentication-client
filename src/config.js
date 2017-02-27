@@ -1,0 +1,1 @@
+export const auth_server = 'http://localhost:3090';
